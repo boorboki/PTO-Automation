@@ -140,7 +140,7 @@ Run every test below before putting the flow back into production.
 |---|---|
 | Flow owner | IT |
 | Service account | `svc-automation@example.com` (dedicated automation account) |
-| Mailbox access | Delegated access to `pto-calendar@example.com` |
+| Mailbox access | Read and manage (Full Access) and Send as on `pto-calendar@example.com` |
 | Calendar access | Editor on the `pto-calendar@example.com` calendar |
 
 New maintainers should read this runbook before making any changes.
