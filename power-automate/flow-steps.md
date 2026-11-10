@@ -165,7 +165,7 @@ The run waits here until the manager responds or the approval times out.
 | Subject | Includes the employee's name and PTO reason <!-- TODO: paste the exact subject --> |
 | Start time | `Start Date` from the form |
 | End time | Expression below (End Date + 1 day) |
-| Time zone | (UTC-06:00) Central Time (US & Canada) |
+| Time zone | your Local Time Zone |
 | Is all day event | Yes |
 
 ```
