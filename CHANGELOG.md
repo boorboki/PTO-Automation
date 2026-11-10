@@ -5,10 +5,10 @@ All notable changes to this workflow are recorded here. Make one change at a tim
 # [1.1] - 2026-05-13
 
 # Added
-• Confirmation email to the employee on submission, including request details and their manager.
-• Automatic failure notices to IT, HR, the employee and their manager.
+• Confirmation email to the employee on submission, including request details and their manager<br>
+• Automatic failure notices to IT, HR, the employee and their manager<br>
 
 # Changed
-• Calendar event titles now include the PTO reason.
-• Approval and rejection emails now include request and manager details.
-• Improved error logging and the IT/HR error email.
+• Calendar event titles now include the PTO reason<br>
+• Approval and rejection emails now include request and manager details<br>
+• Improved error logging and the IT/HR error email<br>
