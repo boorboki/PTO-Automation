@@ -59,7 +59,7 @@ This runbook covers how the PTO automation works, what to do when it fails, and 
 | Data | Get user profile (V2) | Gets the employee's display name and details. |
 | Data | Get manager (V2) | Finds the approver. |
 | Approval | Start and wait for an approval | Approve / Reject, assigned to the manager. |
-| Calendar | Create event (V4) | On approval, creates the all-day event in Central Time. |
+| Calendar | Create event (V4) | On approval, creates the all-day event in your Local Time. |
 
 # Calendar end date: the +1 day rule
 
