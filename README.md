@@ -72,6 +72,6 @@ Replace these placeholders with your own values:
 | `example.com` | Your organization's email domain |
 | `pto-calendar@example.com` | Shared mailbox that owns the PTO calendar |
 | `svc-automation@example.com` | Dedicated service account that runs notifications and calendar writes |
-| Central Time | Time zone set in **Create event (V4)** |
+| Local Time Zone | Time zone set in **Create event (V4)** |
 
 Before going live, run the required tests in the [runbook](docs/runbook.md#required-tests-after-any-change).
